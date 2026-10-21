@@ -1,0 +1,9 @@
+[
+  {
+    "ItemId": 101,
+    "Name": "Tea",
+    "Category": "Drinks",
+    "Price": 15,
+    "IsAvailable": true
+  }
+]

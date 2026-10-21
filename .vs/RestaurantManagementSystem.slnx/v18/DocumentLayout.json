@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\sevices\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\sevices\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\sevices\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\sevices\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\data\\jsonfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\data\\jsonfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\restaurantmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\restaurantmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\exceptions\\restaurantmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\exceptions\\restaurantmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D228C0-BEF4-62DC-5714-0C020D9BA430}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Data\\JsonFileHandler.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Data\\JsonFileHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Data\\JsonFileHandler.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Data\\JsonFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:22:51.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:14:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Sevices\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Sevices\\CustomerManagement.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Sevices\\CustomerManagement.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Sevices\\CustomerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:19:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManagement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Sevices\\MenuManagement.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Sevices\\MenuManagement.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Sevices\\MenuManagement.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Sevices\\MenuManagement.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:15:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:08:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "RelativeToolTip": "RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T06:15:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Program.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:05:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantManagementException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Exceptions\\RestaurantManagementException.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Exceptions\\RestaurantManagementException.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Exceptions\\RestaurantManagementException.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Exceptions\\RestaurantManagementException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:03:17.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:07:33.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

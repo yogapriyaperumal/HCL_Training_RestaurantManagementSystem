@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.exe
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.deps.json
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.pdb
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\refint\RestaurantManagementSystem.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.pdb
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\ref\RestaurantManagementSystem.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\Restaura.BF770190.Up2Date
